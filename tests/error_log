@@ -1,0 +1,12 @@
+[21-Jun-2024 01:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/mindmend/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/tests/TestCase.php on line 7
+[21-Jun-2024 01:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/mindmend/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/tests/TestCase.php on line 7
+[21-Jun-2024 01:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/mindmend/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/tests/TestCase.php on line 7

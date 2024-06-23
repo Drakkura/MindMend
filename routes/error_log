@@ -1,0 +1,76 @@
+[20-Jun-2024 12:01:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 24
+[20-Jun-2024 12:01:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 24
+[20-Jun-2024 12:01:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 24
+[20-Jun-2024 12:01:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 24
+[20-Jun-2024 12:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 24
+[20-Jun-2024 12:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 24
+[20-Jun-2024 12:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 24
+[21-Jun-2024 01:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 26
+[21-Jun-2024 01:14:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 26
+[21-Jun-2024 01:15:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 26
+[21-Jun-2024 01:17:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/mindmend/public_html/routes/web.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/web.php on line 26
+[21-Jun-2024 01:17:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/mindmend/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/channels.php on line 16
+[21-Jun-2024 01:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/mindmend/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/console.php on line 17
+[21-Jun-2024 01:18:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/mindmend/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/console.php on line 17
+[21-Jun-2024 01:18:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/mindmend/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/channels.php on line 16
+[21-Jun-2024 01:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/mindmend/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/channels.php on line 16
+[21-Jun-2024 01:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/mindmend/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/console.php on line 17
+[21-Jun-2024 01:19:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/mindmend/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/console.php on line 17
+[21-Jun-2024 01:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/mindmend/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/routes/channels.php on line 16

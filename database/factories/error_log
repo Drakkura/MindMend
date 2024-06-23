@@ -1,0 +1,8 @@
+[21-Jun-2024 02:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/mindmend/public_html/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/database/factories/UserFactory.php on line 11
+[21-Jun-2024 02:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/mindmend/public_html/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/database/factories/UserFactory.php on line 11

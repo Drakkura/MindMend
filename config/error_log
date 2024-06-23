@@ -1,0 +1,116 @@
+[21-Jun-2024 01:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/app.php on line 18
+[21-Jun-2024 01:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/broadcasting.php on line 18
+[21-Jun-2024 01:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/sanctum.php on line 18
+[21-Jun-2024 01:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/services.php on line 18
+[21-Jun-2024 01:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/hashing.php on line 32
+[21-Jun-2024 01:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/mindmend/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/view.php on line 17
+[21-Jun-2024 01:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/sanctum.php on line 18
+[21-Jun-2024 01:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/cache.php on line 18
+[21-Jun-2024 01:13:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/cache.php on line 18
+[21-Jun-2024 01:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/app.php on line 18
+[21-Jun-2024 01:14:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/sanctum.php on line 18
+[21-Jun-2024 01:14:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/mail.php on line 16
+[21-Jun-2024 01:14:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/database.php on line 18
+[21-Jun-2024 01:15:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/sanctum.php on line 18
+[21-Jun-2024 01:15:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/mindmend/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/view.php on line 17
+[21-Jun-2024 01:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/broadcasting.php on line 18
+[21-Jun-2024 01:15:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/database.php on line 18
+[21-Jun-2024 01:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/session.php on line 21
+[21-Jun-2024 01:15:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/services.php on line 18
+[21-Jun-2024 01:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/app.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/app.php on line 18
+[21-Jun-2024 01:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/hashing.php on line 32
+[21-Jun-2024 01:17:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/session.php on line 21
+[21-Jun-2024 01:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/hashing.php on line 32
+[21-Jun-2024 01:17:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/cache.php on line 18
+[21-Jun-2024 01:17:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/queue.php on line 16
+[21-Jun-2024 01:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/logging.php on line 20
+[21-Jun-2024 01:18:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/session.php on line 21
+[21-Jun-2024 01:18:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/cache.php on line 18
+[21-Jun-2024 01:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/mindmend/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/config/cache.php on line 18

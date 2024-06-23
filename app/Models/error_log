@@ -1,0 +1,112 @@
+[21-Jun-2024 02:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/Patient.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Patient.php on line 7
+[21-Jun-2024 02:08:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Session.php on line 8
+[21-Jun-2024 02:08:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/Doctor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Doctor.php on line 9
+[21-Jun-2024 02:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Specialty.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Specialty.php on line 6
+[21-Jun-2024 02:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Specialty.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Specialty.php on line 6
+[21-Jun-2024 02:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Appointment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Appointment.php on line 8
+[21-Jun-2024 02:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/User.php on line 9
+[21-Jun-2024 02:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/Doctor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Doctor.php on line 9
+[21-Jun-2024 02:13:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Specialty.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Specialty.php on line 6
+[21-Jun-2024 02:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/Doctor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Doctor.php on line 9
+[21-Jun-2024 02:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Appointment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Appointment.php on line 8
+[21-Jun-2024 02:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/Doctor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Doctor.php on line 9
+[21-Jun-2024 02:15:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Session.php on line 8
+[21-Jun-2024 02:15:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Prediction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Prediction.php on line 8
+[21-Jun-2024 02:15:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Appointment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Appointment.php on line 8
+[21-Jun-2024 02:16:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/User.php on line 9
+[21-Jun-2024 02:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Prediction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Prediction.php on line 8
+[21-Jun-2024 02:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Session.php on line 8
+[21-Jun-2024 02:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/User.php on line 9
+[21-Jun-2024 02:17:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Appointment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Appointment.php on line 8
+[21-Jun-2024 02:17:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Schedule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Schedule.php on line 8
+[21-Jun-2024 02:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/User.php on line 9
+[21-Jun-2024 02:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Prediction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Prediction.php on line 8
+[21-Jun-2024 02:17:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/mindmend/public_html/app/Models/Patient.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Patient.php on line 7
+[21-Jun-2024 02:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Session.php on line 8
+[21-Jun-2024 02:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/mindmend/public_html/app/Models/Prediction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Models/Prediction.php on line 8
+[22-Jun-2024 06:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/humicpro/public_html/mindmend.humicprototyping.com/app/Models/Schedule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/humicpro/public_html/mindmend.humicprototyping.com/app/Models/Schedule.php on line 8
+[22-Jun-2024 06:21:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/humicpro/public_html/mindmend.humicprototyping.com/app/Models/Doctor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/humicpro/public_html/mindmend.humicprototyping.com/app/Models/Doctor.php on line 9

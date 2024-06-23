@@ -1,0 +1,8 @@
+[20-Jun-2024 10:53:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/mindmend/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Exceptions/Handler.php on line 8
+[21-Jun-2024 02:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/mindmend/public_html/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Exceptions/Handler.php on line 8

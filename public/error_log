@@ -1,0 +1,22 @@
+[21-Jun-2024 22:01:08 UTC] PHP Warning:  include(/home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/ClassLoader.php on line 576
+[21-Jun-2024 22:01:08 UTC] PHP Warning:  include(/home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/ClassLoader.php on line 576
+[21-Jun-2024 22:01:08 UTC] PHP Warning:  include(): Failed opening '/home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/ClassLoader.php on line 576
+[21-Jun-2024 22:01:08 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/autoload_real.php(41): require()
+#1 /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/autoload.php(25): ComposerAutoloaderInitbfe12996eeecb6fdc8713a9fd9d431f8::getLoader()
+#3 /home/humicpro/public_html/mindmend.humicprototyping.com/public/index.php(34): require('/home/humicpro/...')
+#4 {main}
+  thrown in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[21-Jun-2024 22:01:09 UTC] PHP Warning:  include(/home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/ClassLoader.php on line 576
+[21-Jun-2024 22:01:09 UTC] PHP Warning:  include(/home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/ClassLoader.php on line 576
+[21-Jun-2024 22:01:09 UTC] PHP Warning:  include(): Failed opening '/home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/ClassLoader.php on line 576
+[21-Jun-2024 22:01:09 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/autoload_real.php(41): require()
+#1 /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/autoload.php(25): ComposerAutoloaderInitbfe12996eeecb6fdc8713a9fd9d431f8::getLoader()
+#3 /home/humicpro/public_html/mindmend.humicprototyping.com/public/index.php(34): require('/home/humicpro/...')
+#4 {main}
+  thrown in /home/humicpro/public_html/mindmend.humicprototyping.com/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11

@@ -1,0 +1,8 @@
+[21-Jun-2024 02:08:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/mindmend/public_html/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/database/seeders/DatabaseSeeder.php on line 8
+[21-Jun-2024 02:15:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/mindmend/public_html/database/seeders/DatabaseSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/database/seeders/DatabaseSeeder.php on line 8

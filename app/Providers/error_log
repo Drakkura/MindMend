@@ -1,0 +1,40 @@
+[21-Jun-2024 02:06:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/mindmend/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/AppServiceProvider.php on line 7
+[21-Jun-2024 02:06:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/mindmend/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/AuthServiceProvider.php on line 8
+[21-Jun-2024 02:06:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/mindmend/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[21-Jun-2024 02:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/mindmend/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/EventServiceProvider.php on line 10
+[21-Jun-2024 02:11:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/mindmend/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/EventServiceProvider.php on line 10
+[21-Jun-2024 02:12:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/mindmend/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/AuthServiceProvider.php on line 8
+[21-Jun-2024 02:13:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/mindmend/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[21-Jun-2024 02:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/mindmend/public_html/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/AppServiceProvider.php on line 7
+[21-Jun-2024 02:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/mindmend/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[21-Jun-2024 02:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/mindmend/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mindmend/public_html/app/Providers/AuthServiceProvider.php on line 8
